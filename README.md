@@ -2,7 +2,7 @@
 
 **About:** Software Engineer since 2016  
 
-**Skills:** Angular, Python, Docker, AWS  
+**Skills:** Angular, Python, Kotlin & Java, Docker, AWS  
 
 **Interests:** Crafting code with purpose, optimizing for impact.  
 
